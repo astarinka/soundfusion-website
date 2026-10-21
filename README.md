@@ -28,11 +28,8 @@ PHP · MySQL · HTML · CSS
 
 ## Screenshots
 
-### Home page
-![SoundFusion home page](screenshots/home.png)
+### Home page 1
+![SoundFusion home page](screenshots/homep.png)
 
-### Artist page
-![SoundFusion artist page](screenshots/artist.png)
-
-### Artist catalog
-![SoundFusion artist catalog](screenshots/catalog.png)
+### Home page 2
+![SoundFusion artist page](screenshots/homep2.png)
