@@ -25,3 +25,14 @@ SoundFusion — музыкальный веб-сайт, разработанны
 
 ### Технологии
 PHP · MySQL · HTML · CSS
+
+## Screenshots
+
+### Home page
+![SoundFusion home page](screenshots/home.png)
+
+### Artist page
+![SoundFusion artist page](screenshots/artist.png)
+
+### Artist catalog
+![SoundFusion artist catalog](screenshots/catalog.png)
